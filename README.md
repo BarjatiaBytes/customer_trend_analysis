@@ -1,4 +1,4 @@
-# EDA on Retail CRM Data
+# EDA on CRM Data
 
 ## Executive Summary
 Using Python, SQL, and Power BI, I analyzed customer purchase and demographic data to uncover key patterns in shopping behavior across product categories and subscription types. The analysis revealed that loyal and express-shipping customers contribute the highest revenue share, while discount-driven purchases have an impact on overall margins.  
